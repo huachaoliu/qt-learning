@@ -1,0 +1,7 @@
+/Snake/release/*
+/Snake/debug/*
+/Snake/.qmake.stash
+/Snake/.Makefile*
+/add_qt_path.ps1
+.qoder/
+.vscode/
